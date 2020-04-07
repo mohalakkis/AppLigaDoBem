@@ -9,6 +9,8 @@ import Detall from './pages/Detall';
 import Logon from './pages/Logon';
 
 
+
+
 export default function Routes() {
 	return (
 		<NavigationContainer>

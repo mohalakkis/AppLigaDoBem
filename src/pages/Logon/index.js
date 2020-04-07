@@ -17,7 +17,7 @@ export default function Logon() {
 		<View style={styles.container}>
 			<View style={styles.header}>
 				<Image source={logoImg} />
-				<Text style={styles.incidentsProperty}>Como funciona?</Text>
+				<Text style={styles.incidentsProperty}>Qual é o fim?</Text>
 			</View>
 			<View style={styles.incidents}>
 			<Text style={styles.title}>Bem-vindo.</Text>
